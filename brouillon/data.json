@@ -1,0 +1,8 @@
+{
+    "name": "Jean",
+    "age": 12,
+    "adresse": {
+        "city": "Nice"
+    },
+    "covid": true
+}
