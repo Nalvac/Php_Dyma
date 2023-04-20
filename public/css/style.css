@@ -110,6 +110,9 @@ footer {
     align-items: center;
 }
 /* todo */
+.low-opacity {
+    opacity: 0.5;
+}
 
 .todo-container {
     padding: 1.5rem;
